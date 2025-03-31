@@ -143,11 +143,11 @@
   "discord": {
     "enabled": true,
     "webhook_url": "",
-    "crystal_mine_level1_webhook_url": "https://discord.com/api/webhooks/1354076076942430308/DIJ-B95U6ol7Tu1rs-n52FnM7cjZoiSQ_sB4MyLqs34qapXEfqjVzTZNgE6mKeImfB1N",
-    "level2plus_webhook_url": "https://discord.com/api/webhooks/1352661124918546543/QWVFYdok2iwavmGJ36_9eRzf5DuB55N8mZD45pJCEnEXSzSKh6Xjk3mvQ0ooktlM0U5x",
+    "crystal_mine_level1_webhook_url": "https://discord.com/api/webhooks/1351885038383534081/FwMbzNddMCUmZUoqIJPvy2wYAayqutw9tBqlh_sL7_2ZGyjGao9T4iRsjwltf9MaY2Xu",
+    "level2plus_webhook_url": "https://discord.com/api/webhooks/1351884532382699571/3Z7K8Ni-Y82-whLwfVvZthvHZ_Mx29fwJLUhI_OEsxHHr6MgO6S-umIZtIpIVGYvbIWO",
     "level3plus_webhook_url": "",
     "custom_webhook_url": "",
-    "dragon_soul_level2plus_webhook_url": "https://discord.com/api/webhooks/1352661307337347254/v3nYNBUPfGrGZoO9PCSuzPiKMnc19NEwA9HOcqw4fCA5iDPK28jg8NoOJJbxPTw1WZ3g",
-    "occupied_resources_webhook_url": "https://discord.com/api/webhooks/1354076674098204734/Ub3ny4qHN08Ps8Uncd039uDzy7Rb1Cero2VeuLL6_xq141wzA7MVNLgHCx06wyBJhraH"
+    "dragon_soul_level2plus_webhook_url": "https://discord.com/api/webhooks/1354312784329969685/nUvrBCW8HEbWAuxOZw7wLmJg1I11NeClfy9CM20X7dnPp1GhzWMcQTTihuyBN7uQbI8k",
+    "occupied_resources_webhook_url": "https://discord.com/api/webhooks/1354434990871416884/vGhrc-oZK1g7QK8lXkk2GjjJnca2a2Kq9L8f4o1gwmBJEqXUrbnZvUJWY_7JDm1-SZLJ"
   }
 }
